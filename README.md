@@ -1,8 +1,11 @@
 # REACT
 
-## REACT
+# REACT
 ![](/images/logo-og.png)
 
+# ReactJS History
+
+### When compared to other technologies on the market, React is a new technology. Jordan Walke, a software engineer at Facebook, founded the library in 2011, giving it life. The likes of XHP, a straightforward HTML component framework for PHP, have an influence on React. React's newsfeed was its debut application in 2011. Later, Instagram picks it up and incorporates it into their platform
 # What is React?
 - React is a JavaScript library created by 
 - React is a User Interface (UI) library
